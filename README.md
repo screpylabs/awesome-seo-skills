@@ -28,6 +28,7 @@ This list favours skills that have a public source, a clear `SKILL.md`-style wor
 | [Codex SEO](https://github.com/AgriciDaniel/codex-seo) | Codex-first technical SEO, Core Web Vitals, schema, backlinks, local SEO, maps, and reporting | A full suite with specialist workflows, agents, scripts, tests, and optional data integrations. |
 | [Agentic SEO Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) | Technical audits, JavaScript rendering, sitemaps, performance, visual analysis, and GitHub SEO | Broad multi-skill package; review its Python and optional Playwright requirements first. |
 | [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | Claude-oriented audit and research workflows | The Claude counterpart to a larger SEO workflow ecosystem. |
+| [IndexFlow](https://indexflow.tech) | Automate Google Indexing API submissions | Solves 'Discovered - currently not indexed' for programmatic SEO. Forces Googlebot to crawl pages in hours instead of weeks. |
 | [NotFair SEO Drift](https://github.com/nowork-studio/NotFair/tree/main/seo/seo-drift) | Baseline-and-compare monitoring for rankings, indexation, metadata, canonical/noindex directives, schema, and on-page elements | Optional connected Google Search Console data is available through a hosted NotFair MCP connection; live-page inputs work without it. |
 
 ## Content, keywords, and programmatic SEO
