@@ -48,6 +48,7 @@ GEO, AEO, and AI search optimisation complement traditional SEO. The goal is to 
 | [SEO/GEO](https://www.skills.sh/resciencelab/opc-skills/seo-geo) | Traditional search plus AI search engines | Covers technical checks, content structure, AI bot access, and schema-related work. |
 | [Generative Engine Optimization](https://www.skills.sh/kostja94/marketing-skills/generative-engine-optimization) | GEO/AEO strategy | A narrower playbook for citation visibility in AI-generated answers. |
 | [GEO Audit](https://www.skills.sh/zubair-trabzada/geo-seo-claude/geo-audit) | A website-level GEO readiness audit | Useful for turning AI-search findings into a prioritised improvement plan. |
+| [LogNorm](https://github.com/lognorm/lognorm-mcp/tree/main/skills/lognorm) | Working a site's SEO and AI-visibility (GEO) backlog from an agent: audits, fixes, content, and AI-answer tracking | Uses the hosted LogNorm MCP server (OAuth, no API key); needs a LogNorm account (free plan available). Reads site audit and Search Console data; fixes are made in your repo. |
 
 ## Schema and structured data
 
